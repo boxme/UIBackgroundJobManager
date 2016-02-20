@@ -18,7 +18,7 @@ SDK Version 11 & above (Lower version is not tested)
  
 ## Download
 Maven:
-```
+```groovy
 repositories {
     maven { url "http://dl.bintray.com/populov/maven" }
 }
@@ -28,7 +28,7 @@ dependencies {
 }
 ```
 jCenter:
-```
+```groovy
 repositories {
     jcenter()
 }
